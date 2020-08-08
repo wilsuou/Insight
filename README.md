@@ -1,2 +1,2 @@
 # Insight
-Hello world...
+Hello world
